@@ -47,9 +47,9 @@ class App extends React.Component {
       <div>
         <Header />
         <Switch>
-          <Route exact path="/redux-ecom" component={HomePage} />
+          <Route exact path="/" component={HomePage} />
           <Route path="/shop" component={ShopPage} />
-          <Route exact path="/checkout" component={CheckoutPage} />
+          <Route  path="/checkout" component={CheckoutPage} />
 
           <Route
             exact
