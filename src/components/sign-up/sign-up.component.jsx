@@ -84,7 +84,7 @@ class SignUp extends React.Component {
             required
           />
           <CustomButton
-            style={{ padding: " 15px 35px 15px 35px" }}
+          
             type="submit"
           >
             SIGN UP
