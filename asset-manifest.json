@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/redux-ecom/static/css/main.eab7380b.chunk.css",
-    "main.js": "/redux-ecom/static/js/main.18bec974.chunk.js",
-    "main.js.map": "/redux-ecom/static/js/main.18bec974.chunk.js.map",
+    "main.js": "/redux-ecom/static/js/main.75e236be.chunk.js",
+    "main.js.map": "/redux-ecom/static/js/main.75e236be.chunk.js.map",
     "runtime-main.js": "/redux-ecom/static/js/runtime-main.a46c0f48.js",
     "runtime-main.js.map": "/redux-ecom/static/js/runtime-main.a46c0f48.js.map",
-    "static/js/2.ac34d548.chunk.js": "/redux-ecom/static/js/2.ac34d548.chunk.js",
-    "static/js/2.ac34d548.chunk.js.map": "/redux-ecom/static/js/2.ac34d548.chunk.js.map",
+    "static/js/2.c05af30b.chunk.js": "/redux-ecom/static/js/2.c05af30b.chunk.js",
+    "static/js/2.c05af30b.chunk.js.map": "/redux-ecom/static/js/2.c05af30b.chunk.js.map",
     "index.html": "/redux-ecom/index.html",
-    "precache-manifest.35b3f89b3e2171e2784b5a744b8e9e56.js": "/redux-ecom/precache-manifest.35b3f89b3e2171e2784b5a744b8e9e56.js",
+    "precache-manifest.5f70bb7b188b461aef74d3f644deb2cd.js": "/redux-ecom/precache-manifest.5f70bb7b188b461aef74d3f644deb2cd.js",
     "service-worker.js": "/redux-ecom/service-worker.js",
     "static/css/main.eab7380b.chunk.css.map": "/redux-ecom/static/css/main.eab7380b.chunk.css.map",
-    "static/js/2.ac34d548.chunk.js.LICENSE.txt": "/redux-ecom/static/js/2.ac34d548.chunk.js.LICENSE.txt",
+    "static/js/2.c05af30b.chunk.js.LICENSE.txt": "/redux-ecom/static/js/2.c05af30b.chunk.js.LICENSE.txt",
     "static/media/ShoppingIcon.30f07071.svg": "/redux-ecom/static/media/ShoppingIcon.30f07071.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a46c0f48.js",
-    "static/js/2.ac34d548.chunk.js",
+    "static/js/2.c05af30b.chunk.js",
     "static/css/main.eab7380b.chunk.css",
-    "static/js/main.18bec974.chunk.js"
+    "static/js/main.75e236be.chunk.js"
   ]
 }
